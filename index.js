@@ -6,6 +6,7 @@ app.use(cors());
 const port = process.env.Port || 5000;
 
 const categories = require("./data/categories.json");
+const chefs = require("./data/chefs.json");
 
 app.get("/", (req, res) => {
   res.send("hello world");
@@ -21,6 +22,11 @@ app.get("/categories/:id", (req, res) => {
   const id = parseInt(req.params.id);
   const selectedCategory = chefs.find((c) => parseInt(c.category_id) === id);
   res.send(selectedCategory);
+});
+
+// loading all chefs
+app.get("/chefs", (req, res) => {
+  res.send(chefs);
 });
 
 app.listen(port, () => {
