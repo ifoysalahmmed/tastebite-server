@@ -29,6 +29,13 @@ app.get("/chefs", (req, res) => {
   res.send(chefs);
 });
 
+// loading single chef
+app.get("/chef/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  const selectedChef = chefs.find((c) => parseInt(c.id) === id);
+  res.send(selectedChef);
+});
+
 app.listen(port, () => {
   console.log("Server is running on port : ", port);
 });
