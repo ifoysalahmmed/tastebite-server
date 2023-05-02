@@ -16,6 +16,13 @@ app.get("/categories", (req, res) => {
   res.send(categories);
 });
 
+// loading single category
+app.get("/categories/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  const selectedCategory = chefs.find((c) => parseInt(c.category_id) === id);
+  res.send(selectedCategory);
+});
+
 app.listen(port, () => {
   console.log("Server is running on port : ", port);
 });
