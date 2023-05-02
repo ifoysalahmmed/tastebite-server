@@ -5,13 +5,15 @@ app.use(cors());
 
 const port = process.env.Port || 5000;
 
+const categories = require("./data/categories.json");
+
 app.get("/", (req, res) => {
   res.send("hello world");
 });
 
-// loading all chefs
-app.get("/chefs", (req, res) => {
-  res.send(chefs);
+// loading all categories
+app.get("/categories", (req, res) => {
+  res.send(categories);
 });
 
 app.listen(port, () => {
