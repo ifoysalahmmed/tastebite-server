@@ -20,7 +20,7 @@ app.get("/categories", (req, res) => {
 // loading single category
 app.get("/categories/:id", (req, res) => {
   const id = parseInt(req.params.id);
-  const selectedCategory = chefs.find((c) => parseInt(c.category_id) === id);
+  const selectedCategory = chefs.filter((c) => parseInt(c.category_id) === id);
   res.send(selectedCategory);
 });
 
