@@ -1,73 +1,70 @@
 [
   {
     "id": 1,
-    "img": "https://i.ibb.co/RgH1LKK/chef.jpg",
-    "name": "John Smith",
-    "biography": "John Smith is a world-renowned chef with over 30 years of experience in the culinary industry. He was born and raised in New York City, where he developed a passion for cooking at a young age. Smith's career began at a local restaurant where he worked his way up from dishwasher to head chef. Over the years, he has trained under some of the best chefs in the world, including Gordon Ramsay and Alain Ducasse.",
+    "img": "https://i0.wp.com/bharatflux.com/wp-content/uploads/2023/03/Chef-vikas-khanna-.jpg?fit=1080%2C1350&ssl=1",
+    "name": "Vikas Khanna",
+    "biography": "Vikas Khanna (born 14 November 1971) is an Indian chef, restaurateur, cookbook writer, filmmaker and humanitarian. He is one of the judges of MasterChef India. He is based in New York City.",
     "experience": 3,
     "no_recipes": 3,
-    "likes": 100,
-    "category_id": 1,
+    "likes": 110,
     "recipes": [
       {
-        "recipe_name": "Breakfast Potatoes",
-        "ingredients": "Potatoes, Olive Oil, Bacon, Garlic Clove, Maple Syrup, Parsley, Salt, Pepper, Allspice",
-        "cooking_method": "Before you do anything, freeze your bacon slices that way when you're ready to prep, it'll be so much easier to chop! Wash the potatoes and cut medium dice into square pieces. To prevent any browning, place the already cut potatoes in a bowl filled with water. In the meantime, heat 1-2 tablespoons of oil in a large skillet over medium-high heat. Tilt the skillet so the oil spreads evenly. Once the oil is hot, drain the potatoes and add to the skillet.",
+        "recipe_name": "Dal Fry",
+        "ingredients": "toor dal, water, tumeric, salt, ghee",
+        "cooking_method": "Wash and soak toor dal in approx. 3 cups of water, for at least one hours. Dal will be double in volume after soaking. Drain the water. Cook dal with 2-1/2 cups water and add salt, turmeric, on medium high heat, until soft in texture (approximately 30 mins) it should be like thick soup. In a frying pan, heat the ghee.",
         "rating": 4.5
       },
       {
-        "recipe_name": "Breakfast Potatoes",
-        "ingredients": "Potatoes, Olive Oil, Bacon, Garlic Clove, Maple Syrup, Parsley, Salt, Pepper, Allspice",
-        "cooking_method": "Before you do anything, freeze your bacon slices that way when you're ready to prep, it'll be so much easier to chop! Wash the potatoes and cut medium dice into square pieces. To prevent any browning, place the already cut potatoes in a bowl filled with water. In the meantime, heat 1-2 tablespoons of oil in a large skillet over medium-high heat. Tilt the skillet so the oil spreads evenly. Once the oil is hot, drain the potatoes and add to the skillet.",
+        "recipe_name": "Dal Fry",
+        "ingredients": "toor dal, water, tumeric, salt, ghee",
+        "cooking_method": "Wash and soak toor dal in approx. 3 cups of water, for at least one hours. Dal will be double in volume after soaking. Drain the water. Cook dal with 2-1/2 cups water and add salt, turmeric, on medium high heat, until soft in texture (approximately 30 mins) it should be like thick soup. In a frying pan, heat the ghee.",
         "rating": 4.5
       },
       {
-        "recipe_name": "Breakfast Potatoes",
-        "ingredients": "Potatoes, Olive Oil, Bacon, Garlic Clove, Maple Syrup, Parsley, Salt, Pepper, Allspice",
-        "cooking_method": "Before you do anything, freeze your bacon slices that way when you're ready to prep, it'll be so much easier to chop! Wash the potatoes and cut medium dice into square pieces. To prevent any browning, place the already cut potatoes in a bowl filled with water. In the meantime, heat 1-2 tablespoons of oil in a large skillet over medium-high heat. Tilt the skillet so the oil spreads evenly. Once the oil is hot, drain the potatoes and add to the skillet.",
+        "recipe_name": "Dal Fry",
+        "ingredients": "toor dal, water, tumeric, salt, ghee",
+        "cooking_method": "Wash and soak toor dal in approx. 3 cups of water, for at least one hours. Dal will be double in volume after soaking. Drain the water. Cook dal with 2-1/2 cups water and add salt, turmeric, on medium high heat, until soft in texture (approximately 30 mins) it should be like thick soup. In a frying pan, heat the ghee.",
         "rating": 4.5
       }
     ]
   },
   {
     "id": 2,
-    "img": "https://i.ibb.co/ZXBBjb3/chinese.jpg",
-    "name": "Huang Qian",
-    "biography": "Huang Qian is a world-renowned chef with over 30 years of experience in the culinary industry. He was born and raised in New York City, where he developed a passion for cooking at a young age. Smith's career began at a local restaurant where he worked his way up from dishwasher to head chef. Over the years, he has trained under some of the best chefs in the world, including Gordon Ramsay and Alain Ducasse.",
-    "experience": 3,
+    "img": "https://images.yourstory.com/cs/7/4c455a90a21411e98b07315772315642/SANJEEVKAPOORPLACEHOLDERFotor-1599113083364.png",
+    "name": "Sanjeev Kapoor",
+    "biography": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur and television personality. Kapoor hosted the TV show Khana Khazana, the longest running show of its kind in Asia which was broadcast in 120 countries and in 2010 had more than 500 million viewers.",
+    "experience": 5,
     "no_recipes": 3,
-    "likes": 100,
-    "category_id": 2,
+    "likes": 200,
     "recipes": [
       {
-        "recipe_name": "Chicken Congee",
-        "ingredients": "Chicken, Salt, Oil, Bacon, Garlic Clove, Ginger, Spring Onions, Salt, Pepper, Allspice",
-        "cooking_method": "STEP 1 - MARINATING THE CHICKEN In a bowl, add chicken, salt, white pepper, ginger juice and then mix it together well. Set the chicken aside. STEP 2 - RINSE THE WHITE RICE Rinse the rice in a metal bowl or pot a couple times and then drain the water. STEP 2 - BOILING THE WHITE RICE Next add 8 cups of water and then set the stove on high heat until it is boiling. Once rice porridge starts to boil, set the stove on low heat and then stir it once every 8-10 minutes for around 20-25 minutes.",
+        "recipe_name": "Chicken Handi",
+        "ingredients": "Chicken, Salt, Oil, Garlic Clove, Ginger, Spring Onions, Salt, Pepper, Allspice",
+        "cooking_method": "Take a large pot or wok, big enough to cook all the chicken, and heat the oil in it. Once the oil is hot, add sliced onion and fry them until deep golden brown. Then take them out on a plate and set aside. To the same pot, add the chopped garlic and sauté for a minute. Then add the chopped tomatoes and cook until tomatoes turn soft. This would take about 5 minutes.",
         "rating": 4.2
       },
       {
-        "recipe_name": "Chicken Congee",
-        "ingredients": "Chicken, Salt, Oil, Bacon, Garlic Clove, Ginger, Spring Onions, Salt, Pepper, Allspice",
-        "cooking_method": "STEP 1 - MARINATING THE CHICKEN In a bowl, add chicken, salt, white pepper, ginger juice and then mix it together well. Set the chicken aside. STEP 2 - RINSE THE WHITE RICE Rinse the rice in a metal bowl or pot a couple times and then drain the water. STEP 2 - BOILING THE WHITE RICE Next add 8 cups of water and then set the stove on high heat until it is boiling. Once rice porridge starts to boil, set the stove on low heat and then stir it once every 8-10 minutes for around 20-25 minutes.",
+        "recipe_name": "Chicken Handi",
+        "ingredients": "Chicken, Salt, Oil, Garlic Clove, Ginger, Spring Onions, Salt, Pepper, Allspice",
+        "cooking_method": "Take a large pot or wok, big enough to cook all the chicken, and heat the oil in it. Once the oil is hot, add sliced onion and fry them until deep golden brown. Then take them out on a plate and set aside. To the same pot, add the chopped garlic and sauté for a minute. Then add the chopped tomatoes and cook until tomatoes turn soft. This would take about 5 minutes.",
         "rating": 4.2
       },
       {
-        "recipe_name": "Chicken Congee",
-        "ingredients": "Chicken, Salt, Oil, Bacon, Garlic Clove, Ginger, Spring Onions, Salt, Pepper, Allspice",
-        "cooking_method": "STEP 1 - MARINATING THE CHICKEN In a bowl, add chicken, salt, white pepper, ginger juice and then mix it together well. Set the chicken aside. STEP 2 - RINSE THE WHITE RICE Rinse the rice in a metal bowl or pot a couple times and then drain the water. STEP 2 - BOILING THE WHITE RICE Next add 8 cups of water and then set the stove on high heat until it is boiling. Once rice porridge starts to boil, set the stove on low heat and then stir it once every 8-10 minutes for around 20-25 minutes.",
+        "recipe_name": "Chicken Handi",
+        "ingredients": "Chicken, Salt, Oil, Garlic Clove, Ginger, Spring Onions, Salt, Pepper, Allspice",
+        "cooking_method": "Take a large pot or wok, big enough to cook all the chicken, and heat the oil in it. Once the oil is hot, add sliced onion and fry them until deep golden brown. Then take them out on a plate and set aside. To the same pot, add the chopped garlic and sauté for a minute. Then add the chopped tomatoes and cook until tomatoes turn soft. This would take about 5 minutes.",
         "rating": 4.2
       }
     ]
   },
   {
     "id": 3,
-    "img": "https://i.ibb.co/BNX8YYQ/indian.jpg",
-    "name": "Ambani",
-    "biography": "Ambani is a world-renowned chef with over 30 years of experience in the culinary industry. He was born and raised in New York City, where he developed a passion for cooking at a young age. Smith's career began at a local restaurant where he worked his way up from dishwasher to head chef. Over the years, he has trained under some of the best chefs in the world, including Gordon Ramsay and Alain Ducasse.",
-    "experience": 3,
+    "img": "https://www.pinkvilla.com/files/styles/amp_metadata_content_image/public/chef-ranveer-brar_1.jpg",
+    "name": "Ranveer Singh Brar",
+    "biography": "Ranveer Singh Brar is an Indian celebrity chef, Masterchef India judge, author and restaurateur. He is well known as the host of popular Television food shows and as a judge in three seasons of MasterChef India, alongside fellow chefs Sanjeev Kapoor, Vikas Khanna, Vineet Bhatia & Garima Arora.",
+    "experience": 2,
     "no_recipes": 3,
-    "likes": 100,
-    "category_id": 3,
+    "likes": 80,
     "recipes": [
       {
         "recipe_name": "Baingan Bharta",
@@ -91,90 +88,87 @@
   },
   {
     "id": 4,
-    "img": "https://i.ibb.co/sFDWWGT/american.jpg",
-    "name": "Elon Musk",
-    "biography": "Elon Musk is a world-renowned chef with over 30 years of experience in the culinary industry. He was born and raised in New York City, where he developed a passion for cooking at a young age. Smith's career began at a local restaurant where he worked his way up from dishwasher to head chef. Over the years, he has trained under some of the best chefs in the world, including Gordon Ramsay and Alain Ducasse.",
-    "experience": 3,
+    "img": "https://pbs.twimg.com/profile_images/1338865236783157255/TIUN0sa-_400x400.jpg",
+    "name": "Shipra Khanna",
+    "biography": "Shipra Khanna is an Indian celebrity chef, restaurateur, author and television personality. She is best known for, at the age of 29, winning the second season of the Indian television show MasterChef India which aired on Star Plus.",
+    "experience": 1,
     "no_recipes": 3,
-    "likes": 100,
-    "category_id": 4,
+    "likes": 120,
     "recipes": [
       {
-        "recipe_name": "Banana Pancakes",
-        "ingredients": "Banana, Eggs, Baking Powder, Vanilla Extract, Oil, Pecan Nuts, Raspberries",
-        "cooking_method": "In a bowl, mash the banana with a fork until it resembles a thick purée. Stir in the eggs, baking powder and vanilla. Heat a large non-stick frying pan or pancake pan over a medium heat and brush with half the oil. Using half the batter, spoon two pancakes into the pan, cook for 1-2 mins each side, then tip onto a plate. Repeat the process with the remaining oil and batter. Top the pancakes with the pecans and raspberries.",
+        "recipe_name": "Tandoori chicken",
+        "ingredients": "Chicken, Lemons, Paprika, Onion, Oil",
+        "cooking_method": "Mix the lemon juice with the paprika and red onions in a large shallow dish. Slash each chicken thigh three times, then turn them in the juice and set aside for 10 mins. Mix all of the marinade ingredients together and pour over the chicken. Give everything a good mix, then cover and chill for at least 1 hr. This can be done up to a day in advance.",
         "rating": 4.9
       },
       {
-        "recipe_name": "Banana Pancakes",
-        "ingredients": "Banana, Eggs, Baking Powder, Vanilla Extract, Oil, Pecan Nuts, Raspberries",
-        "cooking_method": "In a bowl, mash the banana with a fork until it resembles a thick purée. Stir in the eggs, baking powder and vanilla. Heat a large non-stick frying pan or pancake pan over a medium heat and brush with half the oil. Using half the batter, spoon two pancakes into the pan, cook for 1-2 mins each side, then tip onto a plate. Repeat the process with the remaining oil and batter. Top the pancakes with the pecans and raspberries.",
+        "recipe_name": "Tandoori chicken",
+        "ingredients": "Chicken, Lemons, Paprika, Onion, Oil",
+        "cooking_method": "Mix the lemon juice with the paprika and red onions in a large shallow dish. Slash each chicken thigh three times, then turn them in the juice and set aside for 10 mins. Mix all of the marinade ingredients together and pour over the chicken. Give everything a good mix, then cover and chill for at least 1 hr. This can be done up to a day in advance.",
         "rating": 4.9
       },
       {
-        "recipe_name": "Banana Pancakes",
-        "ingredients": "Banana, Eggs, Baking Powder, Vanilla Extract, Oil, Pecan Nuts, Raspberries",
-        "cooking_method": "In a bowl, mash the banana with a fork until it resembles a thick purée. Stir in the eggs, baking powder and vanilla. Heat a large non-stick frying pan or pancake pan over a medium heat and brush with half the oil. Using half the batter, spoon two pancakes into the pan, cook for 1-2 mins each side, then tip onto a plate. Repeat the process with the remaining oil and batter. Top the pancakes with the pecans and raspberries.",
+        "recipe_name": "Tandoori chicken",
+        "ingredients": "Chicken, Lemons, Paprika, Onion, Oil",
+        "cooking_method": "Mix the lemon juice with the paprika and red onions in a large shallow dish. Slash each chicken thigh three times, then turn them in the juice and set aside for 10 mins. Mix all of the marinade ingredients together and pour over the chicken. Give everything a good mix, then cover and chill for at least 1 hr. This can be done up to a day in advance.",
         "rating": 4.9
       }
     ]
   },
   {
     "id": 5,
-    "img": "https://i.ibb.co/jgqyPG0/thai.jpg",
-    "name": "Apinya Unisex",
-    "biography": "Apinya Unisex is a world-renowned chef with over 30 years of experience in the culinary industry. He was born and raised in New York City, where he developed a passion for cooking at a young age. Smith's career began at a local restaurant where he worked his way up from dishwasher to head chef. Over the years, he has trained under some of the best chefs in the world, including Gordon Ramsay and Alain Ducasse.",
-    "experience": 3,
+    "img": "https://im.idiva.com/content/2014/Jan/ritudalmia1.jpg",
+    "name": "Ritu Dalmia",
+    "biography": "Ritu Dalmia is an Indian celebrity chef and restaurateur. She is the chef and co-owner of the popular Italian restaurant Diva in Delhi, which she established in 2000, with co-founder Gita Bhalla under partnership firm 'Riga Food'. Other restaurants of company include ‘Latitude 28’ and ‘Cafe Diva’.",
+    "experience": 4,
     "no_recipes": 3,
-    "likes": 100,
-    "category_id": 5,
+    "likes": 140,
     "recipes": [
       {
-        "recipe_name": "Massaman Beef curry",
-        "ingredients": "Peanuts, Coconut cream, Massaman curry paste, Beef, Potatoes, Onions",
-        "cooking_method": "Heat oven to 200C/180C fan/gas 6, then roast the peanuts on a baking tray for 5 mins until golden brown. When cool enough to handle, roughly chop. Reduce oven to 180C/160C fan/gas 4. Heat 2 tbsp coconut cream in a large casserole dish with a lid. Add the curry paste and fry for 1 min, then stir in the beef and fry until well coated and sealed.",
+        "recipe_name": "Lamb Biryani",
+        "ingredients": "Meat, Rice, Onion, Paprika, Salt, Oil",
+        "cooking_method": "Grind the cashew, poppy seeds and cumin seeds into a smooth paste, using as little water as possible. Set aside. Deep fry the sliced onions when it is hot. Don’t overcrowd the oil. When the onions turn light brown, remove from oil and drain on paper towel. The fried onion will crisp up as it drains. Also fry the cashewnuts till golden brown. Set aside. Wash the rice and soak in water twenty minutes.",
         "rating": 4.6
       },
       {
-        "recipe_name": "Massaman Beef curry",
-        "ingredients": "Peanuts, Coconut cream, Massaman curry paste, Beef, Potatoes, Onions",
-        "cooking_method": "Heat oven to 200C/180C fan/gas 6, then roast the peanuts on a baking tray for 5 mins until golden brown. When cool enough to handle, roughly chop. Reduce oven to 180C/160C fan/gas 4. Heat 2 tbsp coconut cream in a large casserole dish with a lid. Add the curry paste and fry for 1 min, then stir in the beef and fry until well coated and sealed.",
+        "recipe_name": "Lamb Biryani",
+        "ingredients": "Meat, Rice, Onion, Paprika, Salt, Oil",
+        "cooking_method": "Grind the cashew, poppy seeds and cumin seeds into a smooth paste, using as little water as possible. Set aside. Deep fry the sliced onions when it is hot. Don’t overcrowd the oil. When the onions turn light brown, remove from oil and drain on paper towel. The fried onion will crisp up as it drains. Also fry the cashewnuts till golden brown. Set aside. Wash the rice and soak in water twenty minutes.",
         "rating": 4.6
       },
       {
-        "recipe_name": "Massaman Beef curry",
-        "ingredients": "Peanuts, Coconut cream, Massaman curry paste, Beef, Potatoes, Onions",
-        "cooking_method": "Heat oven to 200C/180C fan/gas 6, then roast the peanuts on a baking tray for 5 mins until golden brown. When cool enough to handle, roughly chop. Reduce oven to 180C/160C fan/gas 4. Heat 2 tbsp coconut cream in a large casserole dish with a lid. Add the curry paste and fry for 1 min, then stir in the beef and fry until well coated and sealed.",
+        "recipe_name": "Lamb Biryani",
+        "ingredients": "Meat, Rice, Onion, Paprika, Salt, Oil",
+        "cooking_method": "Grind the cashew, poppy seeds and cumin seeds into a smooth paste, using as little water as possible. Set aside. Deep fry the sliced onions when it is hot. Don’t overcrowd the oil. When the onions turn light brown, remove from oil and drain on paper towel. The fried onion will crisp up as it drains. Also fry the cashewnuts till golden brown. Set aside. Wash the rice and soak in water twenty minutes.",
         "rating": 4.6
       }
     ]
   },
   {
     "id": 6,
-    "img": "https://i.ibb.co/KLkhjGj/japanese.jpg",
-    "name": "Haruka",
-    "biography": "Haruka is a world-renowned chef with over 30 years of experience in the culinary industry. He was born and raised in New York City, where he developed a passion for cooking at a young age. Smith's career began at a local restaurant where he worked his way up from dishwasher to head chef. Over the years, he has trained under some of the best chefs in the world, including Gordon Ramsay and Alain Ducasse.",
-    "experience": 3,
+    "img": "https://sugermint.com/wp-content/uploads/2022/04/Chef-Kunal-Kapur.jpg",
+    "name": "Kunal Kapur",
+    "biography": "Kunal Kapur is an Indian chef and restaurateur known for hosting and judging MasterChef India.",
+    "experience": 5,
     "no_recipes": 3,
-    "likes": 100,
-    "category_id": 6,
+    "likes": 280,
     "recipes": [
       {
-        "recipe_name": "Japanese gohan rice",
-        "ingredients": "Pickle Juice, Mirin, Sushi Rice, Salt, Spices",
-        "cooking_method": "STEP 1 Rinsing and soaking your rice is key to achieving the perfect texture. Measure the rice into a bowl, cover with cold water, then use your fingers to massage the grains of rice – the water will become cloudy. Drain and rinse again with fresh water. Repeat five more times until the water stays clear. STEP 2 Tip the rinsed rice into a saucepan with 400ml water, or 200ml dashi and 200ml water, bring to the boil, then turn down the heat to a low simmer, cover with a tight-fitting lid with a steam hole and cook for 15 mins.",
+        "recipe_name": "Matar Paneer",
+        "ingredients": "Oil, Paneer, Ginger, Cumin, Tumeric, Chilli",
+        "cooking_method": "Heat the oil in a frying pan over high heat until it’s shimmering hot. Add the paneer, then turn the heat down a little. Fry until it starts to brown at the edges, then turn it over and brown on each side – the paneer will brown faster than you think, so don’t walk away. Remove the paneer from the pan and drain on kitchen paper.",
         "rating": 4.3
       },
       {
-        "recipe_name": "Japanese gohan rice",
-        "ingredients": "Pickle Juice, Mirin, Sushi Rice, Salt, Spices",
-        "cooking_method": "STEP 1 Rinsing and soaking your rice is key to achieving the perfect texture. Measure the rice into a bowl, cover with cold water, then use your fingers to massage the grains of rice – the water will become cloudy. Drain and rinse again with fresh water. Repeat five more times until the water stays clear. STEP 2 Tip the rinsed rice into a saucepan with 400ml water, or 200ml dashi and 200ml water, bring to the boil, then turn down the heat to a low simmer, cover with a tight-fitting lid with a steam hole and cook for 15 mins.",
+        "recipe_name": "Matar Paneer",
+        "ingredients": "Oil, Paneer, Ginger, Cumin, Tumeric, Chilli",
+        "cooking_method": "Heat the oil in a frying pan over high heat until it’s shimmering hot. Add the paneer, then turn the heat down a little. Fry until it starts to brown at the edges, then turn it over and brown on each side – the paneer will brown faster than you think, so don’t walk away. Remove the paneer from the pan and drain on kitchen paper.",
         "rating": 4.3
       },
       {
-        "recipe_name": "Japanese gohan rice",
-        "ingredients": "Pickle Juice, Mirin, Sushi Rice, Salt, Spices",
-        "cooking_method": "STEP 1 Rinsing and soaking your rice is key to achieving the perfect texture. Measure the rice into a bowl, cover with cold water, then use your fingers to massage the grains of rice – the water will become cloudy. Drain and rinse again with fresh water. Repeat five more times until the water stays clear. STEP 2 Tip the rinsed rice into a saucepan with 400ml water, or 200ml dashi and 200ml water, bring to the boil, then turn down the heat to a low simmer, cover with a tight-fitting lid with a steam hole and cook for 15 mins.",
+        "recipe_name": "Matar Paneer",
+        "ingredients": "Oil, Paneer, Ginger, Cumin, Tumeric, Chilli",
+        "cooking_method": "Heat the oil in a frying pan over high heat until it’s shimmering hot. Add the paneer, then turn the heat down a little. Fry until it starts to brown at the edges, then turn it over and brown on each side – the paneer will brown faster than you think, so don’t walk away. Remove the paneer from the pan and drain on kitchen paper.",
         "rating": 4.3
       }
     ]
